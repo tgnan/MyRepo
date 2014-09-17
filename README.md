@@ -5,6 +5,7 @@ MyRepo
 
 **Bold**
 
+:+1:
 :smiley:
 
 This is a test repo
